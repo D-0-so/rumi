@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="mn">
 <head>
     <meta charset="UTF-8">
@@ -65,7 +64,7 @@
             </div>
         </div>
         <h2 class="text-rose-100 text-xl md:text-2xl tracking-[0.3em] font-light uppercase animate-pulse">
-            Товшоод нээгээрэй ✨
+            Зураг дээр дараарай хөөрхөнөө ✨
         </h2>
     </div>
     <div id="letterScene" class="fixed inset-0 bg-black/90 backdrop-blur-xl z-40 hidden flex items-center justify-center p-4 opacity-0 transition-opacity duration-700">
