@@ -71,14 +71,19 @@
         <div id="letterBox" class="paper-texture max-w-md w-full rounded-3xl shadow-2xl p-8 md:p-10 transform scale-90 transition-all duration-700 relative border-b-8 border-rose-200">
             <div class="absolute top-0 left-0 w-full h-2 bg-gradient-to-r from-rose-400 via-rose-500 to-rose-400"></div>
             <div class="text-center mb-6"><span class="text-5xl inline-block animate-bounce">💌</span></div>
-            <div class="handwritten text-slate-800 space-y-4">
-                <h1 class="text-2xl md:text-3xl font-bold text-rose-600 leading-tight">Клубийн уулзалтаа мартаагүй биз дээ!</h1>
-                <p class="text-lg md:text-xl leading-relaxed">
-                    Сайн уу? Бид 03-р сарын 31-ний 17:30-д <span class="bg-rose-100 px-1 rounded font-bold text-rose-700 text-nowrap">МУИС-ийн 2-р байрны 446 тоотод</span> таныг хүлээж байх болно.
-                </p>
-                <p class="text-rose-500 font-semibold italic text-right">— Хоцролгүй ирээрэй манайхаан!</p>
-                <div class="pt-6 border-t border-slate-200"><p class="text-center text-slate-500 italic">Ирнэ биз дээ? 🥺</p></div>
-            </div>
+           <div class="handwritten text-slate-800 space-y-4">
+    <h1 class="text-2xl md:text-3xl font-bold text-rose-600 leading-tight">Клубийн уулзалтаа мартаагүй биз дээ!</h1>
+    <p class="text-lg md:text-xl leading-relaxed">
+        Сайн уу? Бид 03-р сарын 31-ний 17:30-д <span class="bg-rose-100 px-1 rounded font-bold text-rose-700 text-nowrap">МУИС-ийн 2-р байрны 446 тоотод</span> таныг хүлээж байх болно. 
+    </p>
+    <p class="text-base md:text-lg text-slate-700 leading-relaxed border-l-4 border-rose-300 pl-4 italic">
+        Энэ удаагийн уулзалтаар бид хамтдаа кино үзэж, цагийг хөгжилтэй өнгөрүүлэхээр бэлдсэн байгаа шүү. 🍕🥤
+    </p>
+    <p class="text-rose-500 font-semibold italic text-right">— Чиний оролцоо бидэнд маш чухал! ✨</p>
+    <div class="pt-4 border-t border-slate-200">
+        <p class="text-center text-slate-500 italic">Заавал ирнэ гэж найдаж байна, тэгэх үү? 🥺👉👈</p>
+    </div>
+</div>
             <div class="mt-8 flex justify-center gap-4 h-16 items-center" id="btnContainer">
                 <button id="yesBtn" class="bg-rose-500 hover:bg-rose-600 text-white px-8 py-3 rounded-full text-lg font-bold shadow-lg transition-all active:scale-90">Тийм ээ ✅</button>
                 <button id="noBtn" class="bg-slate-300 text-slate-600 px-8 py-3 rounded-full text-lg font-bold transition-all duration-200">Үгүй ❌</button>
